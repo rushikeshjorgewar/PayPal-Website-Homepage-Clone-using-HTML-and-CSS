@@ -15,13 +15,12 @@ Project Features:
     Services Section: The project includes a services section that showcases the different services offered by PayPal, such as sending and receiving money, making payments, and managing accounts.
     Features Section: The project includes a features section that highlights the features and benefits of using PayPal, including security, convenience, and global reach.
     Call-to-Action Section: The project includes a call-to-action section that prompts users to sign up for a PayPal account or learn more about PayPal's offerings.
-    Footer Section: The project includes a footer section that contains links to important pages, such as the about us, contact us, and help center, as well as social media icons.
 
 Challenges and Solutions:
 
     Design and Styling: Replicating the exact design and styling of the PayPal homepage using HTML and CSS was challenging. We used CSS to apply appropriate fonts, colors, and layout properties to achieve a similar look and feel.
     Responsive Design: Ensuring that the PayPal homepage clone is responsive and displays well on different screen sizes and devices was another challenge. We used CSS media queries to apply different styles based on the screen size, and tested the website on different devices to ensure it is responsive and user-friendly.
-    Content Integration: Incorporating the appropriate content and images that align with the PayPal brand and messaging was challenging. We used Lorem Ipsum as placeholder text and royalty-free images to maintain the visual integrity of the homepage.
+    Content Integration: Incorporating the appropriate content and images that align with the PayPal brand and messaging was challenging. We used exact content as placeholder text and copyrighted images violating the visual integrity of the homepage because to give the webpage an exact same to same feel.
 
 Conclusion:
-The PayPal website homepage clone project made using HTML and CSS is a replica of the layout, design, and content of the PayPal homepage. It includes features such as a header section, hero section, services section, features section, call-to-action section, and footer section. Despite some challenges, this project demonstrates the use of HTML and CSS to create a visually appealing and functional homepage for a website.
+The PayPal website homepage clone project made using HTML and CSS is a replica of the layout, design, and content of the PayPal homepage. It includes features such as a header section, hero section, services section, features section, and call-to-action section. Despite some challenges, this project demonstrates the use of HTML and CSS to create a visually appealing and functional homepage for a website.
