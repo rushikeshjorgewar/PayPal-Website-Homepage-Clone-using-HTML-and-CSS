@@ -1,7 +1,7 @@
 # PayPal-Website-Homepage-Clone-using-HTML-and-CSS
 
 Introduction:
-The homepage of the PayPal website is the first point of contact for users, providing an overview of the services and features offered by PayPal. In this project, we have created a clone of the PayPal website homepage using HTML and CSS. The objective of this project is to replicate the layout, design, and content of the PayPal homepage using HTML for the structure and CSS for the styling.
+The homepage of the PayPal website is the first point of contact for users, providing an overview of the services and features offered by PayPal. In this project, I have created a clone of the PayPal website homepage using HTML and CSS. The objective of this project is to replicate the layout, design, and content of the PayPal homepage using HTML for the structure and CSS for the styling.
 
 Technologies Used:
 
